@@ -34,3 +34,6 @@ group :test do
   # Pretty printed test output
   gem 'turn', '~> 0.8.3', :require => false
 end
+
+gem 'spree', '1.0.0.rc2', :git => 'https://github.com/spree/spree.git'
+
